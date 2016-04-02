@@ -20,7 +20,7 @@ $page->headTitle = 'Faculty Office Hours';
 //$page->headcode = '<style>'.$page->getIncludeContents('_inc.style.php').'</style>';
 $page->headerBG = '/_resources/images/banners/full/ames-school-art_banner.jpg';
 $page->headerDepartment = 'Provost\'s Office';
-$page->bodyTitle = 'Faculty Office Hours';
+$page->bodyTitle = 'Office Hours';
 $page->contactNetID = 'jgreen';
 ob_start();
 	
